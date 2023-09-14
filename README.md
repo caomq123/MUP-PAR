@@ -1,12 +1,12 @@
-# PAR
+# MUP-PAR
 MUP: Multi-granularity Unified Perception for Panoramic Activity Recognition
-## Requirements
+## 环境依赖
 - python == 3.8.3
 - pytorch == 1.11.0
 - CUDA == 11.2
-## Data Preparation
-Dataset Link: https://pan.baidu.com/s/1K8RDNteaphYJY8YEAg5fyA Password: PHAR
-## Training
+## 数据准备
+数据集链接: https://pan.baidu.com/s/1K8RDNteaphYJY8YEAg5fyA Password: PHAR
+## 训练
 - On PAR benchmark.
 ```
 python train_stage2.py
