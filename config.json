@@ -1,0 +1,9 @@
+{
+    "Datasets": {
+        "JRDB": {
+            "data_path": "/opt/data/private/O/PAR-main/PAR_ECCV22/videos",
+            "annotation_path": "/opt/data/private/O/PAR-main/PAR_ECCV22/annotations/",
+            "excel_path": "/opt/data/private/O/PAR-main/PAR_ECCV22/annotations/"
+        }
+    }
+}
